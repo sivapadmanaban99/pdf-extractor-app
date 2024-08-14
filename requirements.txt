@@ -1,1 +1,8 @@
 streamlit
+time
+pdfplumber
+PyPDF2
+csv
+boto3
+json
+pandas
